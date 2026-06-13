@@ -1,0 +1,6 @@
+# Secret API Keys
+.env
+
+# Large Python Environment Folders
+venv/
+env/
